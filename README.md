@@ -1,7 +1,7 @@
 
-Camille Fogg's Personal Portfolio Site
+## Camille Fogg's Personal Portfolio Site
 
-## Acknowledgements
+#### Acknowledgements
 
 This project was created through Gatsby.js and its originator is:
 
