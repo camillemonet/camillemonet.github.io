@@ -55,7 +55,7 @@ const About = () => {
                       rel="noopener noreferrer"
                       className="cta-btn cta-btn--resume"
                       // href={resume}
-                      href="https://raw.githubusercontent.com/camillemonet/personal-portfolio/main/src/components/About/cmf_resume.pdf"
+                      href="https://raw.githubusercontent.com/camillemonet/camillemonet.github.io/source/src/components/About/cmf_resume.pdf"
                       download
                     >
                       Resume
