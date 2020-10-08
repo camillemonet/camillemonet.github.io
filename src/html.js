@@ -21,7 +21,7 @@ export default function HTML({
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
         {headComponents}
         <meta property="og:title" content="Camille Fogg | Developer"/>
-        <meta property="og:image" content="https://raw.githubusercontent.com/camillemonet/camillemonet.github.io/source/src/components/Hero/personal_site.jpg"/>
+        <meta property="og:image" content="https://raw.githubusercontent.com/camillemonet/camillemonet.github.io/source/src/components/Hero/portfolio_site.jpg"/>
         <meta property="og:description" content="My personal portfolio site." />
         <meta property="og:url" content="https://camillefogg.com" />
       </head>
