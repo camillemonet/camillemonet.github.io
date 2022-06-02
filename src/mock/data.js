@@ -39,7 +39,7 @@ export const projectsData = [
     id: nanoid(),
     img: 'js_home.jpg',
     title: 'Nurses vs Nonsense',
-    info: '',
+    info: 'A strategy-based game which encourages players to stop individuals from shopping in stores without masks (built in 2020).',
     info2: '',
     url: 'https://camillemonet.github.io/Nurses-vs-Nonsense/',
     repo: 'https://github.com/camillemonet/Nurses-vs-Nonsense', // if no repo, the button will not show up
@@ -48,7 +48,7 @@ export const projectsData = [
     id: nanoid(),
     img: 'splash-thumb.jpg',
     title: 'Volunteerist',
-    info: '',
+    info: 'A team-built MERN app for people to find local volunteer opportunities which serve individuals and small businesses.',
     info2: '',
     url: 'https://volunteerist.herokuapp.com/#/',
     repo: 'https://github.com/solomondove/Volunteerist', // if no repo, the button will not show up
