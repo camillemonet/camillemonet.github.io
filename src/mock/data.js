@@ -18,7 +18,7 @@ export const heroData = {
 // ABOUT DATA
 export const aboutData = {
   img: 'profile_pic.jpg',
-  paragraphOne: "Ever since I was little, I've loved to learn.  Back then, it exhibited itself through things like reading avidly (which holds true to this day), taking an enthusiastic approach to school, and woodworking in my family's garage. As an adult, I've been able to dive even deeper into that curiosity.",
+  paragraphOne: "I have always loved to learn. As a child, this love exhibited itself through things like reading avidly (which holds true to this day), taking an enthusiastic approach to school, and woodworking in my family's garage. As an adult, I've been able to dive even deeper into that curiosity.",
   paragraphTwo: 'This is all to say that I am very passionate about engineering. It gives me an outlet to practically apply learning to contribute to making society a better place. Software engineering is a fast-moving field, thereby encouraging development of new ways to tackle existing challenges. There are constantly new methods to construct and refine designs created by mechanical engineers.',
   paragraphThree: "Recently, I've been working on a webapp called Volunteerist, which connects willing participants with grassroots volunteering opportunities. It uses React, Express.js, Node.js, MongoDB, Javascript's Google Maps API, and Socket.IO for instant messaging.",
   resume: 'https://www.resumemaker.online/es.php', // if no resume, the button will not show up
@@ -30,7 +30,7 @@ export const projectsData = [
     id: nanoid(),
     img: 'feed.jpg',
     title: 'Brava',
-    info: "Brava is a webapp formed as a Strava clone which enables users to log their physical exercise in a variety of ways. Through Brava, users are able to create commonly followed routes for running or biking and create completed activities to keep track of their progress.",
+    info: "Brava is a webapp formed as a Strava clone which enables users to log their physical exercise in a variety of ways. Through Brava, users are able to create commonly followed routes for running or biking and create completed activities to keep track of their progress. (When I wrote this, I never thought I would find myself working at Strava.)",
     info2: '',
     url: 'https://brava-1.herokuapp.com/#/',
     repo: 'https://github.com/camillemonet/Brava', // if no repo, the button will not show up
